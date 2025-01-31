@@ -3,6 +3,7 @@
 **I am always looking for better ways to do things**
 
 - 💬 I strongly believe in empowering individuals to explore their own data
+- ✈️ Professionally trained aviator; I can easily speak both pilot and data science
 - 🔭 I'm currently working on continuous refinement of Mission Marketplace and helping with flight pay discrepancies across CNAFR
 - 🌱 I'm finding new ways to integrate and improve business processes using M365 and Power Platform
 - 🍹 Fun fact: I pour a fantastic mai tai 
