@@ -7,6 +7,16 @@
 - 🌱 I'm finding new ways to integrate and improve business processes using M365 and Power Platform
 - 🍹 Fun fact: I pour a fantastic mai tai 
 
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![CSS](https://img.shields.io/badge/Code-CSS-black?logo=css)
+![Static Badge](https://img.shields.io/badge/Power_Platform-Dataverse-green)
+![Static Badge](https://img.shields.io/badge/Power_Platform-Power_Apps-green)
+![Static Badge](https://img.shields.io/badge/Power_Platform-Power_BI-green)
+![Static Badge](https://img.shields.io/badge/Power_Platform-Power_Automate-green)
+![Static Badge](https://img.shields.io/badge/M365-Excel-green)
+
+
 <!--
 **bengum/bengum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
