@@ -2,6 +2,11 @@
 
 **I am always looking for better ways to do things**
 
+- 💬 I strongly believe in empowering individuals to access their own data
+- 🔭 I'm currently working on continuous refinement of Mission Marketplace and helping with flight pay discrepancies across CNAFR
+- 🌱 I'm finding new ways to integrate and improve business processes using M365 and Power Platform
+- 🍹 Fun fact: I pour a fantastic mai tai 
+
 <!--
 **bengum/bengum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
